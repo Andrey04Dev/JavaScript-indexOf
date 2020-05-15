@@ -1,0 +1,15 @@
+.slide{
+    background-image: url("../img/imagen.jpg");
+    height:50vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.btn-primary,.border-priamry{
+    border: 3px solid #012A3C;
+    background-color: #012A3C;
+}
+
+.color-icon::before{
+    color: white;
+}
